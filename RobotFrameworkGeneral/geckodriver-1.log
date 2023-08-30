@@ -1,0 +1,73 @@
+1690848933212	geckodriver	INFO	Listening on 127.0.0.1:60309
+1690848936294	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\ParseHub\\parsehub.exe" "--marionette" "--remote-debugging-port" "60310" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\WARMAC~1\\AppData\\Local\\Temp\\rust_mozprofileRPLVC1"
+JavaScript error: , line 0: uncaught exception: updater
+JavaScript error: , line 0: uncaught exception: updater
+JavaScript error: , line 0: uncaught exception: updater
+JavaScript error: , line 0: uncaught exception: updater
+JavaScript error: , line 0: uncaught exception: updater
+JavaScript error: , line 0: uncaught exception: updater
+JavaScript error: , line 0: uncaught exception: updater
+JavaScript error: , line 0: uncaught exception: updater
+JavaScript error: , line 0: uncaught exception: updater
+JavaScript error: , line 0: uncaught exception: updater
+JavaScript error: , line 0: uncaught exception: updater
+JavaScript error: , line 0: uncaught exception: updater
+JavaScript error: , line 0: uncaught exception: updater
+JavaScript error: , line 0: uncaught exception: updater
+JavaScript error: , line 0: uncaught exception: updater
+JavaScript error: , line 0: uncaught exception: updater
+JavaScript error: , line 0: uncaught exception: updater
+JavaScript error: , line 0: uncaught exception: updater
+JavaScript error: , line 0: uncaught exception: updater
+JavaScript error: , line 0: uncaught exception: updater
+JavaScript error: , line 0: uncaught exception: updater
+JavaScript error: , line 0: uncaught exception: updater
+JavaScript error: , line 0: uncaught exception: updater
+JavaScript error: , line 0: uncaught exception: updater
+JavaScript error: , line 0: uncaught exception: updater
+JavaScript error: , line 0: uncaught exception: updater
+JavaScript error: , line 0: uncaught exception: updater
+JavaScript error: https://www.parsehub.com/static/js/build/bdemocall.bundle.js, line 2: ReferenceError: $$ is not defined
+JavaScript error: https://calendly.com/assets/external/widget.js, line 1: SyntaxError: expected property name, got '...'
+JavaScript error: , line 0: uncaught exception: updater
+JavaScript error: , line 0: uncaught exception: updater
+JavaScript error: , line 0: uncaught exception: updater
+JavaScript error: , line 0: uncaught exception: updater
+JavaScript error: , line 0: uncaught exception: updater
+JavaScript error: , line 0: uncaught exception: updater
+JavaScript error: , line 0: uncaught exception: updater
+JavaScript error: , line 0: uncaught exception: updater
+JavaScript error: , line 0: uncaught exception: updater
+JavaScript error: , line 0: uncaught exception: updater
+JavaScript error: , line 0: uncaught exception: updater
+JavaScript error: , line 0: uncaught exception: updater
+JavaScript error: , line 0: uncaught exception: updater
+JavaScript error: , line 0: uncaught exception: updater
+JavaScript error: , line 0: uncaught exception: updater
+JavaScript error: , line 0: uncaught exception: updater
+JavaScript error: , line 0: uncaught exception: updater
+JavaScript error: , line 0: uncaught exception: updater
+JavaScript error: , line 0: uncaught exception: updater
+JavaScript error: , line 0: uncaught exception: updater
+JavaScript error: , line 0: uncaught exception: updater
+JavaScript error: , line 0: uncaught exception: updater
+JavaScript error: , line 0: uncaught exception: updater
+JavaScript error: , line 0: uncaught exception: updater
+JavaScript error: , line 0: uncaught exception: updater
+JavaScript error: , line 0: uncaught exception: updater
+JavaScript error: , line 0: uncaught exception: updater
+JavaScript error: , line 0: uncaught exception: updater
+JavaScript error: , line 0: uncaught exception: updater
+JavaScript error: , line 0: uncaught exception: updater
+JavaScript error: , line 0: uncaught exception: updater
+JavaScript error: , line 0: uncaught exception: updater
+JavaScript error: , line 0: uncaught exception: updater
+JavaScript error: , line 0: uncaught exception: updater
+JavaScript error: , line 0: uncaught exception: updater
+1690848950079	addons.repository	WARN	Search failed when adding add-ons to cache
+JavaScript error: , line 0: uncaught exception: updater
+JavaScript error: , line 0: uncaught exception: updater
+JavaScript error: chrome://phapp/content/js/build/src.bundle.js, line 2: TypeError: n.angular is undefined
+JavaScript error: https://www.momentcrm.com/static/js/bundle-embedasync.js, line 2: Error: Permission denied to access property "type"
+JavaScript error: https://www.momentcrm.com/static/js/bundle-embedasync.js, line 2: Error: Permission denied to access property "type"
+JavaScript error: resource://app/modules/CustomizableUI.jsm, line 3911: TypeError: aWindow.gNavToolbox.palette is null

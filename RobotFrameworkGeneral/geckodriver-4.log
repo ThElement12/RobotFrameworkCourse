@@ -1,0 +1,2 @@
+1690849455655	geckodriver	INFO	Listening on 127.0.0.1:60839
+1690849458739	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\ParseHub\\parsehub.exe" "--marionette" "--remote-debugging-port" "60840" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\WARMAC~1\\AppData\\Local\\Temp\\rust_mozprofileiANBmA"
